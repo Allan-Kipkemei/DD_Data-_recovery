@@ -19,4 +19,4 @@ This is a simple GUI application built using Tkinter to run the `dd` command in 
 3. Run the following command:
 
    ```bash
-   python file_recovery_gui.py
+   python .py
